@@ -1,28 +1,9 @@
-## Bootstrap Markdown
+## Bootstrap Markdown - Bootstrap 5
 
-Markdown editing meets Bootstrap.
+A fork of refactory-id's bootstrap-markdown [plugin](https://github.com/refactory-id/bootstrap-markdown), updated for Bootstrap 5.
 
-Demo and documentation available at [http://toopay.github.io/bootstrap-markdown/](http://toopay.github.io/bootstrap-markdown/)
+Demo and documentation available at [https://derek-ye.github.io/bootstrap-markdown/](https://derek-ye.github.io/bootstrap-markdown/)
 
-### Compatibility
-
-| Version | Compatibility |
-| :---: | :---: |
-| v2.x | **only** Bootstrap 3.x |
-| v1.x | **only** Bootstrap 2.x |
-
-### LICENSE
-
-> Copyright 2013-2016 Taufan Aditya
->
-> Licensed under the Apache License, Version 2.0 (the "License");
-> you may not use this file except in compliance with the License.
-> You may obtain a copy of the License at
->
-> http://www.apache.org/licenses/LICENSE-2.0
->
-> Unless required by applicable law or agreed to in writing, software
-> distributed under the License is distributed on an "AS IS" BASIS,
-> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-> See the License for the specific language governing permissions and
-> limitations under the License.
+### Requirements
+- [Bootstrap Icons] (https://icons.getbootstrap.com/) is the default icon pack
+- JQuery (I use 1.7.1)
